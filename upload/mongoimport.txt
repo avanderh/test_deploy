@@ -1,0 +1,1 @@
+"C:\Program Files\MongoDB\Tools\100\bin\mongoimport.exe" --config connection.txt --collection games --file games.tsv --type tsv --headerline
